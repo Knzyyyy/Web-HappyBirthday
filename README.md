@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday, Kanyaaa
+# 🎂 Happy Birthday
 
 A personalized interactive birthday website made with **HTML, CSS, and JavaScript**.
 Designed as a small digital surprise filled with memories, wishes, music, and little interactive moments. ✨
